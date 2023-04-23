@@ -1,0 +1,1 @@
+gcc main.c monactions.c opmat.c axes.o init.c ppm.c  touches.h switch_blend.o  switch_light.o VM_init.c -lm -lGL -lGLU -lglut -o test;./test 
