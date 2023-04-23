@@ -1,0 +1,2 @@
+il faut éxècuter cette commande en terminale a fin d'éxècuter le programme:
+      ###gcc main.c monactions.c opmat.c axes.o init.c ppm.c  switch_blend.o  switch_light.o VM_init.c -lm -lGL -lGLU -lglut -o test;./test###
